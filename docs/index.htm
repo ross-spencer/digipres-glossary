@@ -3763,10 +3763,11 @@ const fs = require('fs');
 const path = require('path');
 const HOST = process.env['HOST'] || 'localhost';
 const PORT = process.env['PORT'] || 3003;
-const FILE = process.env['FILE'] || './glossary.html';
+const FILE = process.env['FILE'] || './index.htm';
 
 const mimeTypes = {
     '.html': 'text/html',
+    '.htm': 'text/html',
     '.js': 'text/javascript',
     '.css': 'text/css'
 };
