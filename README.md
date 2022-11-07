@@ -2,6 +2,12 @@
 
 Digital preservation glossary demo...
 
+## Template
+
+The template for this glossary is made available by @hilverd at:
+
+* https://github.com/hilverd/glossary-page-template
+
 ## Editing locally
 
 With node.js installed:
